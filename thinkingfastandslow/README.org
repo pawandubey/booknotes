@@ -1,3 +1,5 @@
+#+OPTIONS: toc:nil
+
 * Introduction
 
 - Heuresitics are useful but without statistical models they can be very misleading
